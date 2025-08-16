@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2025-04-01",
+  "main": "src/index.ts",
+  "name": "piglein",
+  "upload_source_maps": true,
+  "observability": {
+    "enabled": true
+  },
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_name": "d ",
+      "database_id": "5e1059a9-2a93-4f48-a135-c13100af8f4d"
+    }
+  ]
+}
